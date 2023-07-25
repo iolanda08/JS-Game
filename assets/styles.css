@@ -97,3 +97,10 @@ button:hover {
         opacity: 1;
     }
 }
+
+.win-text {
+    font-size: 24px;
+    color: #FF6F61;
+    margin-bottom: 10px;
+    animation: fadeIn 0.5s ease-in-out;
+}
